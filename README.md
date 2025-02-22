@@ -8,13 +8,4 @@ This demo app was built using React Native for the front-end allowing it to easi
 
 This Fitness App consist of 5 different screens. These screens include the **Login** and **Signup** screens, a **Today View** which displays current goals and current activites, a **Profile** screen where you can edit your profile name and goals. Finally, an excersie screen where you can add a recent excersie to your account.
 
-### Running the App
 
-**Note**: Make sure you have [Expo](https://docs.expo.io/ "Expo") installed on your machine.
-
-```
-$ git clone https://github.com/avigael/react-native-fitness-app
-$ cd react-native-fitness-app
-$ npm install
-$ expo start
-```
